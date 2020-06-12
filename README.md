@@ -22,11 +22,20 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
-1. How would you describe preprocessing to someone new to CSS?
-2. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+1. How would you describe acessibility on the web to someone new to programming?
+Accessibility allows people who might have difficulties with certain things such as; hearing, seeing, or steadily moving the mouse pointer around be able to access and use your website. There are certain things and ways you can create your website to ensure that it can accomodate people who might have trouble using your website. These things include adding an ID to all of your links, and an alt to all of your images so screen readers could voice all of your web elements for people who might have difficulties with sight. Making all your buttoms easier to click by adding margin or padding to your a tags, so that people who might have difficulties accurately controlling the mouse pointer can have an easier time navigating your sight, as well as making your font sizes relative, so people can easily choose and change the size of their browser font size, and read your items easier.
+
+2. Talk about 3 different things you can do to ensure your website is accessible. 
+1) You need to add alt tags to images. alt tags allow screen readers to describe your images to people who might not be able to see them. As well as displaying that description if your image is unable to be displayed.
+2) Using semantic html and labeling elements with IDs' will help screen readers describe what all the elements on your webpage. 
+3) Giving an order to your elements so that it can be accessed through the use of a keyboard in the case that someone is unable to effectively use their mouse. Like making sure all buttons and input elements can be navigated to with the use of the tab key.
+
 3. How would you explain the concept of a variable to someone new to programming?
+A variable in programming is very similar to a variable in math. A variable in programming is basically a name the programmer chooses to house or equal to an item of information. This unique name/variable can be used instead of the data assigned to it when writing code. A variable allows programmers to give importance to their data, as well as keep track of what is what. The value associated with the variable can change depending on the actions imposed upon it, however the variable name will stay the same.
+
 4. What is the purpose of using functions in code?
-5. What is JSON data?
+A function is basically a block of code, or a set of instructions. Functions are important as named functions can be used multiple times, whenever the developer invokes it in their code. This is helpful as a developer can run an entire block of code by only needing to type a few words, rather than copy and pasting or re-writing the entire block of code, over and over again, allowing him to have DRY and consise code. Functions can also be made to take arguments and return a value, which is another helpful way when developers need to use the same logic for many different arguments. 
+
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
