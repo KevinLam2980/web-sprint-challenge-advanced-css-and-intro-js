@@ -148,7 +148,7 @@ button:hover{
         background-size: cover;
     }
     section.title-container h1 {
-        font-size: 4rem;
+        font-size: 3.5rem;
     }
     section#artists-container {
         flex-direction: column;
