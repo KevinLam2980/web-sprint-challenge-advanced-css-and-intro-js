@@ -146,6 +146,7 @@ button:hover{
     section.title-container div{
         height: 40vh;
         background-size: cover;
+        width: 100%;
     }
     section.title-container h1 {
         font-size: 3.5rem;
@@ -172,5 +173,9 @@ button:hover{
         margin: 1rem, 0;
         padding: 0;
         font-size: 1rem;
+    }
+
+    hr {
+        width: 100%;
     }
 }
